@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  <b>Backedn Developer</b>.
+  <b>Backend Developer</b>.
 </h3>
 
 <!-- <div align="center">
