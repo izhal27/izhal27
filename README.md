@@ -51,5 +51,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhal27&layout=compact&theme=gruvbox" width="50%" height="50%">
 </p>
 <p align='center'>
-    <img src="https://streak-stats.demolab.com?user=izhal27&theme=onedark&date_format=j%20M%5B%20Y%5D&mode=weekly" width="50%" height="50%" />
+    <img src="https://streak-stats.demolab.com?user=izhal27&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly" width="50%" height="50%" />
 </p>
